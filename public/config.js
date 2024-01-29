@@ -1,15 +1,14 @@
 window.Config = {
 
   // 显示标题
-  SiteName: 'Public Status',
+  SiteName: 'XCQ's Blog检测站点服务状态',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
-    'm784488775-dd1ad84b209c05f8e185c33e',
-    'm784490063-7b5da437e7f1e0d67613714d',
-    'm784497419-de55aa09902ccb3ab22d548a',
-    'm784496436-71a4bf7b1e3bdf7756be131b',
+    'm796264665-fc6c055391969db335aaf246',
+    'm796264666-b1247e2e58bd4f6218e38737',
+
   ],
 
   // 日志天数
@@ -21,16 +20,17 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Homepage',
-      url: 'https://status.org.cn/'
+      text: '联系',
+      url: 'https://chinaboy.link/contact'
+    },
+    {
+      text: '博客',
+      url: 'https://chinaboy.link/'
     },
     {
       text: 'GitHub',
-      url: 'https://github.com/yb/uptime-status'
+      url: 'https://github.com/XCQ0607'
     },
-    {
-      text: 'Blog',
-      url: 'https://abo.xyz/'
-    },
+
   ],
 };
