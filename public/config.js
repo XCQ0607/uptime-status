@@ -20,17 +20,16 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: '联系',
-      url: 'https://chinaboy.link/contact'
-    },
-    {
-      text: '博客',
-      url: 'https://chinaboy.link/'
+      text: 'Homepage',
+      url: 'https://status.org.cn/'
     },
     {
       text: 'GitHub',
-      url: 'https://github.com/XCQ0607'
+      url: 'https://github.com/yb/uptime-status'
     },
-
+    {
+      text: 'Blog',
+      url: 'https://abo.xyz/'
+    },
   ],
 };
