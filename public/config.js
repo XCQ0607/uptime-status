@@ -1,7 +1,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: 'XCQ's Blog检测站点服务状态',
+  SiteName: 'Public Status',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
